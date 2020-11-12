@@ -39,4 +39,4 @@ en_climate_daily_ON_6105976_2016_P1D.csv
 
 As you can guess, both data sets were pretty dirty. Especially the bike sensor data. With any real-world measurement, some can't be trusted. And some straight up aren't there. So the project had a good amount of data cleaning to do at the very start.
 
-But if you're interested to see how it all turned out, take a trip on over to the code and follow along!
+But if you're interested to see how it all turned out, take a trip on over to the code and [follow along!](https://github.com/been-jammin/cyclist_volume_predictor/blob/main/cyclist_volume_predictor.ipynb)
